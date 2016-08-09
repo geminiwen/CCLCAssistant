@@ -1,0 +1,12 @@
+.list {
+	position: fixed;
+	left: 10px;
+	top: 50%;
+	border-radius: 6px;
+	background: #DBDCDE;
+	border: none;
+}
+
+.list td {
+	padding: 8px;
+}

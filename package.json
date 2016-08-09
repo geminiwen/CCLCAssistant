@@ -1,0 +1,16 @@
+{
+  "title": "CCLCAssistant",
+  "name": "cclcassistant",
+  "version": "1.1.1",
+  "description": "An Assistant for CCLC",
+  "main": "index.js",
+  "author": "Gemini Wen",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
